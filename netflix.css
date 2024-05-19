@@ -1,0 +1,422 @@
+div{
+    height: 100vh;
+    width: 100%;
+    background-image: url(https://static.standard.co.uk/2022/11/16/10/netflix-s.jpg?crop=8:5,smart&quality=75&auto=webp&width=1024);
+    background-size: 100% 800px;
+    background-repeat: no-repeat;
+}
+div b{
+    color: red;
+    font-size: 55px;
+    position: absolute;
+    bottom: 650px;
+    left: 150px;
+}
+*{
+    margin: 0px;
+    box-sizing: border-box;
+    
+
+}
+div select{
+    position: relative;
+    bottom: 400px;
+    font-size: 100px;
+    bottom: 900px;
+  left: 1100px;
+  color:white;
+  background-color: black;
+}
+button{
+    background-color: red;
+    position: absolute;
+    bottom: 675px;
+    font-size: 18px;
+    left: 1200px;
+}
+div h1{
+    position: absolute;
+    top: 300px;
+    left: 320px;
+    color: white;
+    font-size: 60px;
+}
+div h2{
+    position: absolute;
+    top: 370px;
+    color: white;
+    font-size: 30px;
+    left: 480px;
+}
+div h3{
+    position: absolute;
+    top: 420px;
+    color: white;
+    font-size: 20px;
+    left: 330px;
+}
+input[placeholder]
+{
+    height: 60px;
+    width: 400px;
+    font-size: 20px;
+    background-color:black;
+    position: absolute;
+    bottom: 200px;
+    border: 2px solid white;
+    
+
+}
+    
+#get{
+    background-color: red;
+    position: absolute;
+    height: 50px;
+    width: 150px;
+    top: 460px;
+    left: 800px;
+    
+
+}
+hr{
+    border-width: 4px;
+    background-color:grey;
+    height: 10px;
+    width: 100%;
+    position: absolute;
+    top: 740px;
+}
+section {
+     position: relative;
+    height: 80vh;
+    width: 100vw;
+    bottom: 00px;
+}
+section h1{
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    top: 210px;
+    font-size: 50px;
+    color: white;
+    left: 100px;
+}
+section video{
+    height: 400px;
+    width: 600px;
+    position: absolute;
+    left: 800px;
+    top: 100px;
+
+}
+body{
+    background-color: black;
+}
+section h2{
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    top: 280px;
+    left: 100px;
+
+}
+section hr{
+    background-color: white;
+    height: 10px;
+    width: 100vw;
+}
+article {
+    position: relative;
+    height:100vh ;
+    width: 100vw;
+    
+}
+article h1{
+    height: 200px;
+    width: 100%;
+    font-size: 50px;
+    color: white;
+    position: absolute;
+    top: 200px;
+    left: 650px;
+
+}
+article h2{
+    font-size: 30px;
+    color: white;
+    height: 200px;
+    width: 100%;
+    position: absolute;
+    top: 350px;
+    left: 650px;
+    border-width:4px;
+    border-color: red;
+}
+article video{
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    right: 1600px;
+    bottom: -30px;
+}
+article hr{
+    height: 10px;
+    width: 100vw;
+    background-color: white;
+    position: absolute;
+
+}
+/* article hr{
+    background-color: gray;
+    height: 10px;
+    width: 100%;
+    /* position: absolute;
+    bottom: 700px; */ */
+
+
+aside{
+    position: relative;
+    height:100vh ;
+    width: 100vw;
+    color: white;
+
+
+}
+aside h1{
+    position: absolute;
+    font-size: 50px;
+    width: 100%;
+    height: 200px;
+    
+    top: 1900px;
+    left: 60px;
+    color: aliceblue;
+   
+    
+}
+aside h2{
+    font-size: 30px;
+    position: absolute;
+    top: 1980px;
+    left: 60px;
+    color: white;
+
+}
+aside hr{ 
+    background-color:white ;
+    height: 10px;
+    width: 100vw;
+    border-width: 5px;
+    position: absolute;
+    top: 2200px;
+    
+
+}
+aside video{
+    height: 400px;
+    width: 500px;
+    position: absolute;
+    left: 700px;
+    top: 1820px;
+    
+
+}
+header{
+    position: relative;
+    top: 200px;
+    height:100vh ;
+    width: 100vw;
+    color: white;
+    background-image: url(https://occ-0-2857-2164.1.nflxso.net/dnm/api/v6/19OhWN2dO19C9txTON9tvTFtefw/AAAABVr8nYuAg0xDpXDv0VI9HUoH7r2aGp4TKRCsKNQrMwxzTtr-NlwOHeS8bCI2oeZddmu3nMYr3j9MjYhHyjBASb1FaOGYZNYvPBCL.png?r=54d);
+    background-size: 500px 400px;
+    background-repeat: no-repeat;
+
+
+}
+header h1{
+    height: 200px;
+    width: 100%;
+    font-size: 50px;
+    position: absolute;
+    top: 100px;
+    left: 700px;
+}
+header h2{
+    height: 200px;
+    width: 100%;
+    font-size: 30px;
+    position: absolute;
+    top: 180px;
+    left: 700px;
+}
+header hr{
+    background-color:white ;
+    height: 10px;
+    width: 100vw;
+    border-width: 5px;
+    position: absolute;
+    top: 400px;
+
+}
+nav{
+    height: 100vh;
+    width: 100vw;
+    color: white;
+    position: relative;
+    bottom: 100px;
+}
+nav h1{
+    height: 200px;
+    width: 100%;
+    position: absolute;
+    top: 50px;
+    font-size: 60px;
+    left: 400px;
+}
+#man{
+    height: 70px;
+    width: 70%;
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    top: 180px;
+    left: 200px;
+    background-color:grey;
+
+}
+#man1{
+    height: 70px;
+    width: 70%;
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    top: 270px;
+    left: 200px;
+    background-color:grey;
+
+}
+#man2{
+    height: 70px;
+    width: 70%;
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    top: 370px;
+    left: 200px;
+    background-color:grey;
+
+}
+#man3{
+    height: 70px;
+    width: 70%;
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    top: 470px;
+    left: 200px;
+    background-color:grey;
+
+}
+#man4{
+    height: 70px;
+    width: 70%;
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    top: 570px;
+    left: 200px;
+    background-color:grey;
+
+}
+#man5{
+    height: 70px;
+    width: 70%;
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    top: 670px;
+    left: 200px;
+    background-color:grey;
+
+}
+nav h2{
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    top: 800px;
+    left: 300px;
+}
+input{
+    height: 100vh;
+    width: 100vw;
+    color: white;
+    position: absolute;
+    bottom: 500px;
+}
+#hr{
+    background-color: white;
+    height: 10px;
+    width: 100vw;
+
+}
+article hr{
+    background-color:white ;
+    height: 10px;
+    width: 100vw;
+    border-width: 5px;
+    position: absolute;
+    top: 100px;
+    left: -650px;
+}
+nav input{
+    height: 100px;
+    width: 120px;
+    position: absolute;
+    top: 860px;
+    left: 360px;
+
+}
+nav button{
+    height: 60px;
+    width: 180px;
+    background-color: red;
+    position: absolute;
+    top: 860px;
+    left: 770px;
+}
+nav hr{
+    height: 10px;
+    width: 100vw;
+    background-color: white;
+    position: absolute;
+    top: 950px;
+}
+footer{
+    height: 100vh;
+    width: 100vw;
+    color: white;
+    position: relative;
+    top: 200px;
+    left: 200px;
+}
+.foot{
+    line-height: 60px;
+    font-size: 20px;
+    text-indent: 10px;
+    
+}
+.paint{
+    font-size: 20px;
+}
+#paint{
+    color:white;
+    position: absolute;
+    bottom: 370px;
+    left: -10px;
+}
+#pain{
+    position: absolute;
+    top: 260px;
+}

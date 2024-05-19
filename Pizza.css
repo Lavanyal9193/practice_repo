@@ -1,0 +1,167 @@
+#sec{
+    /* border: 1px solid black; */
+    height: 1500px;
+    background-color: black;
+    opacity: 0.8;
+}
+#nav1{
+    /* border: 1px solid blue; */
+    height: 80px;
+    width: 1150px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    position: fixed;
+    top: 0px;
+    background-color: black;
+}
+/* #nav1:hover{
+background-color: blueviolet;
+} */
+#child1{
+    /* border: 1px solid green; */
+    height: 50px;
+    width: 200px;
+    margin-left: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#child2{
+    /* border: 1px solid green; */
+    height: 50px;
+    width: 800px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 8px;
+    color: white;
+    font-weight: bold;
+    /* gap: 10px; */
+}
+.schild{
+    /* border: 1px solid yellowgreen; */
+    height: 40px;
+    width: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+#schild1:hover{
+border-bottom:2px solid blue ;
+}
+#schild2:hover{
+    border-bottom:2px solid blue ;
+    }
+#schild3:hover{
+    border-bottom:2px solid blue ;
+}
+#schild4:hover{
+    border-bottom:2px solid blue ;
+}
+#schild5:hover{
+    border-bottom:2px solid blue ;
+}
+#schild6:hover{
+    border-bottom:2px solid blue ;
+}
+#schild7:hover{
+    border-bottom:2px solid blue ;
+}
+#schild9:hover{
+    border-bottom:2px solid blue ;
+}
+
+
+#div2{
+    /* border: 2px solid white; */
+    width: 550px;
+    height: 100px;
+    position: absolute;
+    left: 10px;
+    top: 300px;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+#dchild1{
+    /* background-color: black; */
+    opacity: 0.5px;
+    width: 490px;
+    opacity: 0.8;
+}
+#dchild2{
+    /* background-color: black; */
+    opacity: 0.5px;
+    width: 500px;
+    opacity: 0.8;
+}
+#div3{
+    /* border: 2px solid white; */
+    width: 550px;
+    height: 100px;
+    position: absolute;
+    left: 10px;
+    top: 350px;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+
+
+#div4{
+    /* border: 2px solid white; */
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    position: absolute;
+    top: 410px;
+    left: 15px;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+font-size: large;
+font-weight: bold;
+}
+a:hover{
+    background-color:brown;
+    padding: 15px;
+    width: 200px;
+    border-radius: ;
+}
+
+/* #nav2{
+    border: 2px solid white;
+    height: 600px;
+    width: 30px;
+    position: absolute;
+    left: 1100px;
+    top: 250px;
+    
+    
+}
+
+.hdiv{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 30px;
+
+    border: 2px solid white;
+    height: 80px;
+    width:15px ;
+    color: white;
+    
+    
+} */
+
+
+
